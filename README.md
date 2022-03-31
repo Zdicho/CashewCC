@@ -1,0 +1,2 @@
+# CashewCoin
+Repo for CashewCoin
